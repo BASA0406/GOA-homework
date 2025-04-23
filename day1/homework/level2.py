@@ -1,4 +1,4 @@
-# Oto Tugushi
+
 
 # თემური ინაიშვილი
 
@@ -14,5 +14,5 @@
 
 # Alexs Gakharia
 
-toy = "gun"
-print(toy)
+cxra = "Oto Tugushi"
+print(cxra)

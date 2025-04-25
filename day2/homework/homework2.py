@@ -39,11 +39,3 @@ Action3 = "kvercxis"
 
 Action4 = "sayidlad"
 print(Action1 + Action2 + Action3 + Action4)
-
-
-
-
-
-
-
-

@@ -33,9 +33,7 @@ Decimals3 = 5.9
 print(Decimals3)
 
 
-
 print("Task 2")
-
 
 
 Mathematics1 = (10 + 10)

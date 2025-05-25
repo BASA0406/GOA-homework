@@ -20,10 +20,3 @@ mathematics3 = (5 * 4)
 print(mathematics3)
 
 mathematics4 = (100 / 5)
-
-
-
-
-
-
-
